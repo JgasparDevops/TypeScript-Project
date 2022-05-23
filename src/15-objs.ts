@@ -17,7 +17,7 @@
     type Size = 'S' | 'M' | 'L' | 'XL'
 
 
-    const products: any = []
+    const products: Product[] = []
     const addProduct = (data:Product) => {
       products.push(data)
     }
@@ -28,4 +28,10 @@
       stock:12
     })
     console.log(products)
+
+    products.push({
+      title: 'pro1',
+      createdAt: new Date(1993, 1, 1),
+      stock:12
+    })
 })()
