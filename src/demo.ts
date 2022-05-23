@@ -1,4 +1,3 @@
-//@ts-check
 (async ()=> {
   const myCart = [];
   const products = [];
@@ -33,6 +32,6 @@
     name: 'Nicolas',
     lastName: 'Molina'
   }
-  const rta = Object.assign(person, limit);
-  console.log(rta);
+  // const rta = Object.assign(person, limit);
+  // console.log(rta);
 });
