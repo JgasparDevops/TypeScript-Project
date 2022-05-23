@@ -19,4 +19,7 @@
   console.log('hex', hex)
   let bin = 0b10101010
   console.log('bin', bin)
+
+  const myNumber: number = 10
+
 })()
