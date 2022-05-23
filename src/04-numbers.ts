@@ -6,7 +6,7 @@
   let customerAge: number = 34
   customerAge = customerAge + 1
 
-  let productInStock: number
+  let productInStock: number =1
   console.log('productInStock', productInStock)
   if(productInStock > 10){
     console.log('isGreater')
