@@ -1,0 +1,22 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "TProyecto en typeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JgasparDevops/TypeScript-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JgasparDevops/TypeScript-Project/issues"
+  },
+  "homepage": "https://github.com/JgasparDevops/TypeScript-Project#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
